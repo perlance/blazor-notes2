@@ -1,2 +1,2 @@
 # blazor-notes2
-test
+This is test2.
